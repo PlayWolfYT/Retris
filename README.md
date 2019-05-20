@@ -13,7 +13,7 @@ Folge der Anleitung und Retris wird spielbar sein.
 **Schritt 2:**
 *Führe die heruntergeladene Datei aus*
 
-**Schritt 3: *(Falls ein ungewolltes Fenster auftaucht)* **
+**Schritt 3:** ***(Falls ein ungewolltes Fenster auftaucht)***
 *Leider kann es sein, dass "Windows SmartScreen" das Programm blockiert. Der Grund dafür ist, dass das Programm zu wenig oft heruntergeladen bzw gestartet wurde (Ich kann also nichts dagegen machen).*
 
 ***Um das Programm trotzdem auszuführen, klicke bitte auf "Weitere Informationen" und dann auf "Trotzdem ausführen"!*** 
