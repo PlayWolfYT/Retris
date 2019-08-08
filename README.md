@@ -25,11 +25,11 @@ Folge der Anleitung und Retris wird spielbar sein.
 *Starte Retris und hab Spass! Feedback ist willkommen.*
 
 
-**Optionale Schritte falls das Programm nicht startet:**
-*Bei sehr vielen funktioniert das starten des Spiels nach der Installation nicht, weil angeblich Java nicht installiert ist. Falls dir das auch passiert, du aber Java bereits installiert hast, folge diesen Schritten:
+# **Optionale Schritte falls das Programm nicht startet:**
+*Bei sehr vielen funktioniert das starten des Spiels nach der Installation nicht, weil angeblich Java nicht installiert ist. Falls dir das auch passiert, du aber Java bereits installiert hast, folge diesen Schritten: 
 1. Öffne den Installationsordner (C:/Programme (x86)/Retris)
-2. Starte die Retris_.jar_ Datei. Falls sie sich NICHT öffnet, gebe oben in die Adresszeile "cmd" ein.
-3. Gebe im "cmd" Fenster folgenden Befehl ein: _"java -jar Retris.jar"_*
+2. Starte die _Retris.jar_ Datei. Falls sie sich NICHT öffnet, gebe oben in die Adresszeile "cmd" ein.
+3. Gebe im "cmd" Fenster folgenden Befehl ein: _"java -jar Retris.jar"_ *
 
 
 # **Download:**
